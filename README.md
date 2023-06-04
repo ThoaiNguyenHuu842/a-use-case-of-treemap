@@ -25,4 +25,4 @@ Hence, the value of this transaction is _**102x30=3,060**_.
 JDK 11, Gradle
 
 ## How to get started?
-After building the project, we can run the **DailyPricingServiceTest** to see how to this example works.
+After building the project, we can run the **DailyPricingServiceTest** to see how this demo works.
